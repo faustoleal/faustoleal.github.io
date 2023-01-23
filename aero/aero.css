@@ -410,7 +410,7 @@ img {
   grid-row: 4 / 6;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .cursos {
     grid-template-rows: 75px repeat(8, 240px);
   }
@@ -437,6 +437,20 @@ img {
   .cursos .cursos-content:nth-child(5) {
     grid-column: 1 / 5;
     grid-row: 8/ 10;
+  }
+
+  .cursos-info-box {
+    padding: 70px 70px;
+  }
+}
+
+@media (max-width: 395px) {
+  .cursos-btn {
+    padding: 10px 24px !important;
+    margin: 0;
+  }
+  .cursos-info-box {
+    padding: 40px 35px;
   }
 }
 
