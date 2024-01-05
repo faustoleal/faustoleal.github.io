@@ -1,5 +1,19 @@
-# Primer proyecto
+# Aero
 
-Proyecto personal con HTML, CSS y Javascript
+#### Landing page de una escuela de vuelo
 
-[Primer-proyecto](https://faustoleal.github.io/aero)
+Herramientas utilizadas
+
+- HTML
+- CSS3
+- Javascript
+
+Version de escritorio
+
+![Escritorio](/aero/img/aero.png)
+
+Version Mobile
+
+![Mobile](/aero/img/aeromobile.jpg)
+
+[Ver pagina](https://faustoleal.github.io/aero)
