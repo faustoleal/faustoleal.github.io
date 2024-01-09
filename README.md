@@ -10,10 +10,10 @@ Herramientas utilizadas
 
 Version de escritorio
 
-![Escritorio](/aero/img/aero.png)
+![Escritorio](/aero/img/aero-desktop.png)
 
 Version Mobile
 
-![Mobile](/aero/img/aeromobile.jpg)
+![Mobile](aero/img/aeromobile.png)
 
 [Ver pagina](https://faustoleal.github.io/aero)
